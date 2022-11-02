@@ -42,6 +42,7 @@ dependencies = {
   "lua-resty-acme == 0.9.0",
   "lua-resty-session == 3.10",
   "lua-resty-timer-ng == 0.2.0",
+  "lua-geoip == 0.2-1"
 }
 build = {
   type = "builtin",
